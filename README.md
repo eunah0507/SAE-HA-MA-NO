@@ -12,8 +12,8 @@
 ### < 기획 의도 >
 
 * 우리나라 관광객 증가 추세에 맞춰 전통 고궁을 알리고 전시회 및 관련 굿즈를 구매할 수 있는 사이트 개발
-* 새하마노 궁은 전통 문화와 역사를 현대적으로 재조명하여 방문객들에게 한국의 역사적 가치를 교육하는 플랫폼 개발
-* 새하마노 궁을 웹 사이트로 즐김으로써 편리성 증가
+* 전통 문화와 역사를 현대적으로 재조명하여 방문객들에게 한국의 역사적 가치를 교육하는 플랫폼 개발
+* 웹 사이트로 즐김으로써 편리성 증가
 
 <br>
 
@@ -54,8 +54,8 @@
 ### 1-1. 회원 서비스 - 회원 가입 및 로그인
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6792d81d-433a-48bb-b46f-d5c74fef6b13" alt="Image 1" width="45%">
-  <img src="https://github.com/user-attachments/assets/d1ac0673-25b8-4fc8-a059-1ba81f62ec5f" alt="Image 2" width="45%">
+  <img src="https://github.com/user-attachments/assets/6792d81d-433a-48bb-b46f-d5c74fef6b13" alt="Image 1" width="49%">
+  <img src="https://github.com/user-attachments/assets/d1ac0673-25b8-4fc8-a059-1ba81f62ec5f" alt="Image 2" width="49%">
 </p>
 
 * 일반 로그인 및 소셜 로그인(Naver, kakao) 가능
@@ -68,8 +68,8 @@
 ### 1-2. 메인 페이지 - 실시간 다대다 채팅 & 지도
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b017bc89-c936-4ff7-b16d-5801599c0c01" alt="Image 3" width="35%">
-  <img src="https://github.com/user-attachments/assets/1aa167af-6f67-4c5a-acb5-358989964bfc" alt="Image 4" width="55%">
+  <img src="https://github.com/user-attachments/assets/b017bc89-c936-4ff7-b16d-5801599c0c01" alt="Image 3" width="38%">
+  <img src="https://github.com/user-attachments/assets/1aa167af-6f67-4c5a-acb5-358989964bfc" alt="Image 4" width="58%">
 </p>
 
 
@@ -81,8 +81,8 @@
 ### 2. 전시 프로그램 찜 및 예약
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d1d688f2-1e3e-46e8-baca-ef1105a17747" alt="Image 1" width="45%">
-  <img src="https://github.com/user-attachments/assets/47f0ecf0-d210-400f-9348-dfed1a023038" alt="Image 2" width="45%">
+  <img src="https://github.com/user-attachments/assets/d1d688f2-1e3e-46e8-baca-ef1105a17747" alt="Image 1" width="49%">
+  <img src="https://github.com/user-attachments/assets/47f0ecf0-d210-400f-9348-dfed1a023038" alt="Image 2" width="49%">
 </p>
 
 * 관련 프로그램 전시, 체험 등으로 분류
@@ -94,8 +94,8 @@
 ### 3. 새하마노 관림 티켓 예약 및 구매(장바구니, 쿠폰, 리뷰 작성 등)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3ead50ae-0fb3-46bb-8994-580ae7f7fa0f" alt="Image 1" width="45%">
-  <img src="https://github.com/user-attachments/assets/9b22355b-28b1-4b33-8fc3-098699411bf6" alt="Image 2" width="45%">
+  <img src="https://github.com/user-attachments/assets/3ead50ae-0fb3-46bb-8994-580ae7f7fa0f" alt="Image 1" width="49%">
+  <img src="https://github.com/user-attachments/assets/9b22355b-28b1-4b33-8fc3-098699411bf6" alt="Image 2" width="49%">
 </p>
 
 
@@ -107,8 +107,8 @@
 ### 4. 새하마노 굿즈 구매(장바구니, 쿠폰, 구매)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15c04e5d-f6cd-4d7a-b83f-31613d6f8707" alt="Image 1" width="45%">
-  <img src="https://github.com/user-attachments/assets/33e9afa6-1f37-4b1c-a0a2-9c0a6b3fdc22" alt="Image 2" width="45%">
+  <img src="https://github.com/user-attachments/assets/15c04e5d-f6cd-4d7a-b83f-31613d6f8707" alt="Image 1" width="49%">
+  <img src="https://github.com/user-attachments/assets/33e9afa6-1f37-4b1c-a0a2-9c0a6b3fdc22" alt="Image 2" width="49%">
 </p>
 
 * 새하마노 굿즈 구매 시, 카테고리 분류 (한복, 굿즈)
@@ -117,8 +117,8 @@
 * 해당 회원이 쿠폰 보유 시 결제 금액에서 할인
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/10637cbd-4186-42a8-9d01-a5e1c169dd3f" alt="Image 1" width="45%">
-  <img src="https://github.com/user-attachments/assets/ee2179f8-8e5c-4ef6-a4aa-7b3fcae75a5e" alt="Image 2" width="45%">
+  <img src="https://github.com/user-attachments/assets/10637cbd-4186-42a8-9d01-a5e1c169dd3f" alt="Image 1" width="49%">
+  <img src="https://github.com/user-attachments/assets/ee2179f8-8e5c-4ef6-a4aa-7b3fcae75a5e" alt="Image 2" width="49%">
 </p>
 
 * 기존 프로젝트 시 카카오 간편 결제만 가능하였으나 리팩토릭 후 KG 이니시스 결제 방식 도입
@@ -140,8 +140,8 @@
 ### 6. 공지 및 자주 묻는 질문 게시판
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/028defa5-9a5e-4cf9-a03f-cd5185ae30f9" alt="Image 1" width="45%">
-  <img src="https://github.com/user-attachments/assets/70a9eb6f-e174-4a6e-b7d4-ec3bab2cd990" alt="Image 2" width="45%">
+  <img src="https://github.com/user-attachments/assets/028defa5-9a5e-4cf9-a03f-cd5185ae30f9" alt="Image 1" width="49%">
+  <img src="https://github.com/user-attachments/assets/70a9eb6f-e174-4a6e-b7d4-ec3bab2cd990" alt="Image 2" width="49%">
 </p>
 
 * 고궁 관련 사이트이기 때문에 공지 사항과 자주 묻는 질문 게시판 분류
