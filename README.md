@@ -1,6 +1,7 @@
 # 새하마노 SAE-HA-MA-NO
 
 ![image](https://github.com/user-attachments/assets/ae8e4189-4975-4ed8-a83b-bd2b93e8c98b)
+![image](https://github.com/user-attachments/assets/eab082f2-f289-4ab6-8906-dd0868c9ac24)
 
 
 ### 가상의 궁 새하마노 소개 사이트 
